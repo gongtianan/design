@@ -2,6 +2,9 @@
 layout: default
 date:   2014-04-06 23:26:12
 photo: 1.png
-caption_header: Sample header
-caption: sample caption
+caption_header: Pablo Picasso
+caption:The Rose Period (1904–1906) is characterized by a more cheery style with orange and pink colors, and featuring many circus people, acrobats and harlequins known in France as saltimbanques. The harlequin, a comedic character usually depicted in checkered patterned clothing, became a personal symbol for Picasso. Picasso met Fernande Olivier, a bohemian artist who became his mistress, in Paris in 1904. Olivier appears in many of his Rose Period paintings, many of which are influenced by his warm relationship with her, in addition to his increased exposure to French painting. The generally upbeat and optimistic mood of paintings in this period is reminiscent of the 1899–1901 period (i.e. just prior to the Blue Period) and 1904 can be considered a transition year between the two periods.
+
+Portrait of Gertrude Stein, 1906, Metropolitan Museum of Art, New York City. When someone commented that Stein did not look like her portrait, Picasso replied, "She will".
+By 1905, Picasso became a favorite of American art collectors Leo and Gertrude Stein. Their older brother Michael Stein and his wife Sarah also became collectors of his work. Picasso painted portraits of both Gertrude Stein and her nephew Allan Stein. Gertrude Stein became Picasso's principal patron, acquiring his drawings and paintings and exhibiting them in her informal Salon at her home in Paris. At one of her gatherings in 1905, he met Henri Matisse, who was to become a lifelong friend and rival. The Steins introduced him to Claribel Cone and her sister Etta who were American art collectors; they also began to acquire Picasso and Matisse's paintings. Eventually Leo Stein moved to Italy. Michael and Sarah Stein became patrons of Matisse, while Gertrude Stein continued to collect Picasso.
 ---
