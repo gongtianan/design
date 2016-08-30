@@ -1,7 +1,7 @@
-name: DESIGN DETAILS 
+name: design details 
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
 url: https://iamnii.github.io/GridGallery/
 author:
-    name: TIAN    twitter: #
+    name: tian    twitter: #
