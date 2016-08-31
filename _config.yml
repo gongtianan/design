@@ -1,17 +1,15 @@
-# Site settings
-title: Library Jekyll Theme
-email: your-email@domain.com
-description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/library-jekyll-theme"
-url: "http://alexcarpenter.me"
-
-# Collections
-#collections:
-#  books:
-#    output: false
-
-sass:
-  style: compressed
+permalink: /:categories/:title.html
+url: "http://pasindud.github.io/jekyll-masonry/"
+full_name: "Your Full Name"
+first_name: "First Name"
+last_name: "Last Name"
+blog_title: "Blog title "
+author_img_name_path: "/images/users/user.jpg"
+disqus_shortname: "pasinduland"
+copyright_year: "2014"
+google_analytics_code: ""
+aboutme: "Something about the author here"
+twitter: "Ghosteyes1"
+github: "pasindud"
+facebook: "mepasindu"
+linkined_url: ""
