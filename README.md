@@ -1,7 +1,6 @@
-Jekyll Photo Grid Gallery
+DESIGN DETAILS
 =========
 
-Jekyll theme based on [Blueprint: Google Grid Gallery](http://tympanus.net/codrops/?p=18699)
 
 ## How to use
 1. Place a large image in `/img/large/`
