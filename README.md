@@ -1,28 +1,32 @@
-# So Simple Theme
+Jekyll Photo Grid Gallery
+=========
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Jekyll theme based on [Blueprint: Google Grid Gallery](http://tympanus.net/codrops/?p=18699)
 
-## Notable features:
-
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates. Looks good on mobile, tablet, and desktop devices.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
-* Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
-* Support for Disqus Comments
-
-![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
-
-See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
-
+## How to use
+1. Place a large image in `/img/large/`
+2. Place a thumbnail version of the same image in `/img/thumb/`. _Remember to use the same file name_
+3. Construction a post to display the image. Use the follow as an example:
+```txt
 ---
+layout: default
+date:   2014-04-06 23:26:12
+photo: 1.png
+caption_header: Sample header
+caption: sample caption
+---
+```
+4. And finally, serve Jekyll source as you would normally.
 
-## Getting Started
+## [Demo](https://iamnii.github.io/GridGallery)
 
-So Simple takes advantage of Sass and data files to make customizing easier and requires Jekyll 3.x.
+View this jekyll theme in action [here](https://iamnii.github.io/GridGallery)
 
-To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
+## Screenshot
+![screenshot](https://raw.github.com/iamnii/GridGallery/master/jggg.png)
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Localhost deployment
+=========
+After [downloading](https://github.com/iamnii/GridGallery/archive/master.zip), use the normal process of serving a jekyll site. Navigate to the directory in terminal and type `jekyll build` followed by `jekyll serve`
+
+For more details, read [documentation](http://jekyllrb.com/)
