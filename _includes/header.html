@@ -1,10 +1,19 @@
-<div id='heading'>
-				<div id='logo'><a href='{{site.url}}'>{{site.first_name}}</a> <a href='{{site.url}}' id='logo_docs'>
-			{{site.last_name}}</a></div>
-			<div id='links'>
-				<a href='https://github.com/{{site.github}}' >
-					<span class="icon-github" ></span>
-				</a> |
-				<a href='https://twitter.com/{{site.twitter}}' class="icon-twitter"></a> |
-				<a href='{{site.twitter}}' class="icon-linkedin"></a>
-			</div>
+<header role="banner">
+<div class="wrap">
+  <h1>
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+  </h1>
+  <hr>
+  <!--
+    <nav class="site-nav">
+    <div class="trigger">
+    {% for page in site.pages %}
+    {% if page.title %}
+    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+    {% endif %}
+    {% endfor %}
+    </div>
+    </nav>
+  -->
+</div>
+</header>
