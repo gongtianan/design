@@ -3,5 +3,6 @@ layout: default
 date:   2014-04-06 23:26:12
 photo: 5.png
 caption_header: Rose Period
-caption: Picasso's Rose Period represents an important epoch in the life and work of the Spanish artist Pablo Picasso and had a great impact on the developments of modern art. It began in 1904 at a time when Picasso settled in Montmartre at the Bateau-Lavoir among bohemian poets and writers. Following Picasso's Blue Period, depicting themes of poverty, loneliness, and despair in somber tones of daunting blues, Picasso's Rose Period represents more pleasant themes of clowns, harlequins, carnival performers, depicted in cheerful vivid hues of red, orange, pink and earth tones. Based largely on intuition rather than direct observation, Picasso's Rose Period marks the beginning of the artists' stylistic experiments with primitivism; influenced by pre-Roman Iberian sculpture, Oceanic and African art. This led to Picasso's African Period in 1907, culminating in the Proto-Cubist masterpiece Les Demoiselles d'Avignon.
+caption: Picasso's Rose Period represents an important epoch in the life and work of the Spanish artist Pablo Picasso and had a great impact on the developments of modern art. 
+
 ---
